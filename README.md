@@ -1,5 +1,5 @@
 # antcolony
-#Below is pseudocode I created for an Ant Colony I created.
+#Below is pseudocode I created for an Ant Colony.
 
 Class 1: Main
 
